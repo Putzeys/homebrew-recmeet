@@ -1,6 +1,6 @@
 cask "recmeet" do
-  version "0.4.0"
-  sha256 "d6b0f7020b27bbb849c5ae1fe19ef69fb4de8911038f178bcb9eee5c04bbb491"
+  version "0.5.0"
+  sha256 "b18032f8f2a499fcc689abf7d623827f055f94aca4c5f4d2aee719288ca9a062"
 
   url "https://github.com/Putzeys/Recmeet/releases/download/v#{version}/recmeet-macos.dmg"
   name "recmeet"
